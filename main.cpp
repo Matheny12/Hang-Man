@@ -8,8 +8,9 @@ int main() {
         cout << "Welcome to Hangman!" << endl;
         cout << "=====================" << endl;
         cout << "Play: 1" << endl;
-        cout << "Show Last Game: 2" << endl;
-        cout << "Exit: 3" << endl << endl;
+		cout << "Play with Hints: 2" << endl;
+        cout << "Show Last Game: 3" << endl;
+        cout << "Exit: 4" << endl << endl;
 
         int choice;
         cout << "Enter your choice: ";
@@ -25,11 +26,17 @@ int main() {
         }
         case 2: {
             Hangman game;
-            game.showLastGame();
+            game.runHints();
             cout << endl;
             break;
         }
         case 3: {
+            Hangman game;
+            game.showLastGame();
+            cout << endl;
+            break;
+        }
+        case 4: {
             cout << "Goodbye!" << endl;
             return 0;
         }

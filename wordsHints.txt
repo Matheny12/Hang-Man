@@ -1,0 +1,200 @@
+APPLE
+A crunchy fruit often red or green.
+BANANA
+A yellow fruit that comes in bunches.
+CHAIR
+A seat with four legs.
+TABLE
+Used for eating or working.
+HOUSE
+Where people live.
+WATER
+A drink that keeps you hydrated.
+MUSIC
+Organized sound that makes melodies.
+HAPPY
+The opposite of sad.
+SMILE
+A facial expression showing joy.
+RIVER
+A flowing body of water.
+GRASS
+Green plant covering the ground.
+CLOUD
+Fluffy shapes floating in the sky.
+BREAD
+Often used for sandwiches.
+CLOCK
+Tells the time.
+DREAM
+Happens when you sleep.
+EARTH
+The planet we live on.
+LIGHT
+Helps you see in the dark.
+NIGHT
+The time after the sun sets.
+PARTY
+A fun gathering with people.
+PEACH
+A soft fruit with a fuzzy skin.
+PIZZA
+A cheesy dish with toppings.
+SUGAR
+Adds sweetness to food.
+TRAIN
+Runs on tracks and carries people.
+TIGER
+A big cat with stripes.
+TURTLE
+Has a shell and moves slowly.
+ZEBRA
+A black-and-white striped animal.
+BOOK
+Contains stories or information.
+PAPER
+Used for writing.
+SPOON
+Used to scoop food.
+FORK
+Has prongs for eating food.
+PLATE
+Holds food during a meal.
+ROAD
+Used for driving or walking.
+FIELD
+A large open grassy space.
+CHURCH
+A place of worship.
+MONEY
+Used to buy things.
+DOLL
+A toy shaped like a person.
+DINER
+A casual restaurant.
+CHICKEN
+A farm bird and a meal.
+MOTHER
+A female parent.
+FATHER
+A male parent.
+BROTHER
+A male sibling.
+SISTER
+A female sibling.
+FRIEND
+Someone you trust and enjoy being with.
+SMOKE
+Rises from fire.
+SUNNY
+When the sun is shining brightly.
+CLOUDY
+When the sky is covered.
+WINDY
+When the air moves strongly.
+EARLY
+Before the expected time.
+LATER
+After the expected time.
+QUICK
+Done fast.
+SLOWLY
+Done at a relaxed pace.
+BANJO
+A stringed instrument often in folk music.
+GUITAR
+A popular instrument with strings.
+PICTURE
+An image or photograph.
+WINDOW
+A glass opening to see outside.
+DOOR
+Used to enter or exit a room.
+WALL
+A vertical structure separating spaces.
+FLOOR
+What you walk on inside a building.
+CEILING
+The top part of a room.
+CURTAIN
+Covers windows for privacy.
+PILLOW
+Used for resting your head.
+BLANKET
+A cover to keep warm.
+BATH
+A way to wash your body.
+SHOWER
+Water sprays to cleanse you.
+TOWEL
+Used to dry off.
+BRUSH
+Used to style hair or clean.
+COMB
+A tool for tidying hair.
+TOOTH
+Found in your mouth for chewing.
+PASTE
+Used to clean teeth.
+SODA
+A fizzy drink.
+JUICE
+A drink made from fruit.
+MILK
+A white liquid from cows or plants.
+SNACK
+A small meal between meals.
+CRISP
+A thin, crunchy snack.
+SWEET
+Having a sugary taste.
+SALAD
+A mix of vegetables or fruits.
+FRUIT
+A healthy natural sweet treat.
+GRAPE
+A small, juicy fruit.
+LEMON
+A sour yellow fruit.
+ORANGE
+A citrus fruit full of vitamin C.
+PEAR
+A juicy fruit with a teardrop shape.
+MANGO
+A tropical fruit with a big seed.
+KIWI
+A fuzzy brown fruit with green inside.
+JELLY
+A sweet, spreadable dessert.
+COOKIE
+A sweet, baked treat.
+BAKERY
+A place that makes bread and pastries.
+CANDY
+A sugary, sweet treat.
+SMOOTH
+Without roughness or bumps.
+SILKY
+Soft and smooth, like fine fabric.
+CREAM
+Thick dairy often used in desserts.
+ICECREAM
+A frozen sweet treat.
+PASTA
+A dish often served with sauce.
+RICE
+A staple grain for meals.
+SOUP
+A warm liquid dish.
+STEAK
+A thick slice of cooked meat.
+CHILI
+A spicy dish with beans and meat.
+FRIES
+Crispy potato sticks.
+BURGER
+A popular fast food with a bun.
+POPCORN
+A snack made from heated corn kernels.
+SALMON
+A pink fish often eaten grilled.

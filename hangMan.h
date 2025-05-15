@@ -10,6 +10,7 @@ using namespace std;
 class Hangman {
 private:
     string word;
+    string hint;
     string guessedWord;
     string correctLetters;
     string wrongLetters;
@@ -34,6 +35,8 @@ public:
     void alreadyUsed();
     void loadWord();
     void showLastGame();
+	void loadWordHints();
+    void runHints();
 };
 
 #endif
